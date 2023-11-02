@@ -57,8 +57,10 @@
 
 </h2>
 
-<h2>Final Predictions:
+<h2>Some Predictions:
 
 ![Predictions](https://github.com/YoussefAlmaidan/DiabetesPrediction/assets/123633730/ad021b42-ccab-4101-b224-f36f7e3b8c8b)
+
+The model has predicted 3 out of 4 patients to have Diabetes based on their 'features' entry. (1.0 = Diabetes, 0.0 = No Diabetes)
 
 </h2>
